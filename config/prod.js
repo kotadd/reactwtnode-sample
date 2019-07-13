@@ -4,5 +4,3 @@ module.exports = {
   mongoURI: process.env.MONGO_URI,
   cookieKey: process.env.COKKIE_KEY
 };
-
-mongodb+srv://Userprod:Userpassword@cluster0-spcm2.mongodb.net/test?retryWrites=true&w=majority
